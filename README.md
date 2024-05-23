@@ -20,7 +20,7 @@ Follow these steps to set up the project:
     First, you need to clone the project repository from GitHub to your local machine. Open your terminal and run:
 
     ```bash
-    git clone https://github.com/your-username/lottery-game.git
+    git clone https://github.com/ritik7739/lottery-game.git
     ```
 
     Replace `your-username` with your GitHub username or the appropriate username where the repository is hosted.
