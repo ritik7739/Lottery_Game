@@ -23,8 +23,6 @@ Follow these steps to set up the project:
     git clone https://github.com/ritik7739/lottery-game.git
     ```
 
-    Replace `your-username` with your GitHub username or the appropriate username where the repository is hosted.
-
 2. **Navigate to the Project Directory**
 
     Change your current directory to the project folder:
